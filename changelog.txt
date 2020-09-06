@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2020-09-06
+  Changes:
+    - Restore vanilla acceleration and top speed multipliers for rocket fuel and nuclear fuel
+    - Fix that nuclear locomotives used the wrong fuel category
